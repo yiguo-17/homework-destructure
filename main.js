@@ -57,3 +57,11 @@ EVERY EXERCISE SHOULD USE DESTRUCTURING*/
  //7. Using destructuring, choose all the schools with a gpa higher than 3.5,
       //and list the chosen object ascending by major and log the average gpa,
       //use method chaining if you can
+
+let schoolArray = [
+  { school: ‘Pataway’, major: ‘comp sci’, year: ‘sophomore’, gpa: 3.2 },
+  { school: ‘Bronxville’, major: ‘medicine’, year: ‘junior’, gpa: 4.0 },
+  { school: ‘Scarsdale’, major: ‘accounting’, year: ‘freshman’, gpa: 2.6 },
+  { school: ‘Peekskill’, major: ‘liberal arts’, year: ‘freshman’, gpa: 4.0 },
+  { school: ‘Anopram’, major: ‘accounting’, year: ‘senior’, gpa: 3.7 },
+];
