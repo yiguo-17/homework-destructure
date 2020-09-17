@@ -48,9 +48,10 @@ EVERY EXERCISE SHOULD USE DESTRUCTURING*/
     ],
     },
     };
-//6.  Create a class Cars that takes make, color, and year
-    //Instantiate 4 cars, car1,car2, car3, car4
-    //Using destructuring declare the make, color and year variables for each car and console.log the variables
+/*6.  Create a class Cars that takes make, color, and year
+    Instantiate 4 cars, car1,car2, car3, car4
+    Using destructuring declare the make, color and year variables for each car and console.log the variables
+    OR SHOULD I SAY declare the make, color and year and list a string for each showing their values.*/
     
     
  //7. Using destructuring, choose all the schools with a gpa higher than 3.5,
